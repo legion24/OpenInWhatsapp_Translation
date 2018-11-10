@@ -3,6 +3,7 @@ strings.xml file from Open In WhatsApp app by TrianguloY.
 Permission given to translate only.
 
 Instructions for manual translation:
+=====================================
 -Translate only the text between <string name="..." > ... </string> and <item> ... </item>
 -Line breaks are specified with '
 ' and special characters as quotes need to be preceded by backslash \' (more information here: https://docs.oracle.com/javase/tutorial/java/data/characters.html)
@@ -25,7 +26,7 @@ Danksagungen:
 Vielen Dank an Timofey Lisunov für die Übersetzung in´s Russische!
 Vielen Dank an Matheus Damacs für die Übersetzung in´s Portugiesische (Portugal)!
 Vielen Dank an Yusuf Emen für die Übersetzung in´s Türkische!
-Vielen Dank an Benjamin Yılmaz Çetiner für die Übersetzung in´s Deutsch!
+Vielen Dank an Benjamin Yılmaz Çetiner für die Übersetzung ins Deutsch!
 Vielen Dank an Richard Anderson (Hirai RCD) für die Übersetzung in´s Portugiesische (Brasilien)!
 
 Sie können die gewünschte Landessprache ändern (App startet sich neu)."</string>
@@ -33,10 +34,10 @@ Sie können die gewünschte Landessprache ändern (App startet sich neu)."</stri
     <string name="txt_description">"Diese App nutzt die offizielle WhatsApp Schnittstelle, um eine Unterhaltung mit der von Ihnen angegebenen Nummer zu öffnen. Es wird  kein Kontakt angelegt/hinzugefügt.
 Weitere Informationen erhalten Sie direkt in der "<a href="https://www.whatsapp.com/faq/en/general/26000030">WhatsApp FAQ</a>".
 
-Nummer und  "<a href="https://de.wikipedia.org/wiki/L%C3%A4ndervorwahlliste_sortiert_nach_Nummern">Landesvorwahl</a>"  ohne Sonderzeichen eingeben. Sie können auf \'+\' zur Länderauswahl drücken.
-Beispiel: Für Deutschland (+49 123 456 7890) gebe Sie die Nummer so ein: 49 1234567890"</string>
+Nummer und  "<a href="https://de.wikipedia.org/wiki/L%C3%A4ndervorwahlliste_sortiert_nach_Nummern">Landesvorwahl</a>" ohne Sonderzeichen eingeben. Sie können auf \'+\' zur Länderauswahl drücken.
+Beispiel:  +49 123 456 7890: 49 1234567890"</string>
     <string name="txt_extra_description">"
-Hier können Sie einen Link erstellen, der direkt in WhatsApp sich öffnet. Sie können eine Nummer/Nachricht angeben, die auf das Eingabefeld gelegt wird (Nachricht wird NICHT (!!) automatisch gesendet)."</string>
+Hier können Sie einen direkten Link zu WhatsApp erstellen. Sie können eine Nummer/Nachricht angeben, die auf das Eingabefeld gelegt wird (Nachricht wird NICHT (!!) automatisch gesendet)."</string>
 
     <string name="hint_editNumber">Nummer</string>
     <string name="hint_editPrefix">Vorwahl</string>
@@ -51,13 +52,13 @@ Hier können Sie einen Link erstellen, der direkt in WhatsApp sich öffnet. Sie 
 
     <string name="toast_autoParser">"Automatischer Parser.
  Vorwahl korrekt?!"</string>
-    <string name="toast_copied">In die Zwischenablage kopiert</string>
+    <string name="toast_copied">In Zwischenablage kopiert</string>
     <string name="toast_error_openLink">Link kann nicht geladen werden</string>
 
     <string name="title_sendTo">Link senden an:</string>
     <string name="title_chooseCountry">Länderkürzel:</string>
     <string name="title_clearRecents">Verlauf leeren:</string>
 
-    <string name="message_clearRecents">Alle kürzlich verwendeten Einträge entfernen?</string>
+    <string name="message_clearRecents">Verlauf wirklich leeren?</string>
 
 </resources>
